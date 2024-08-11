@@ -1,3 +1,5 @@
 {
-  "/store1/page": "app/store1/page.js"
+  "/Delete/page": "app/Delete/page.js",
+  "/page": "app/page.js",
+  "/PaymentI/page": "app/PaymentI/page.js"
 }
